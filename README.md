@@ -58,6 +58,13 @@ Este proyecto es la lógica backend de un ecommerce, construido con tecnologías
 
 La API está completamente documentada utilizando Swagger, facilitando la comprensión y el uso de la API tanto para desarrolladores como para testers.
 
+![Imagen de Ejemplo](./img/api1.png)
+![Imagen de Ejemplo](./img/api2.png)
+![Imagen de Ejemplo](./img/api3.png)
+![Imagen de Ejemplo](./img/api4.png)
+
+
+
 ## Precarga
 
 Al iniciarse el servidor, se utiliza una precarga de categorías y productos en la base de datos si no existen, garantizando que simpre haya datos disponibles para la iteracción inicial
